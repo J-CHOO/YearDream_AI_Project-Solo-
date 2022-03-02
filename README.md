@@ -1,5 +1,5 @@
 # YearDream_AI_Project-Solo-
-p2p 대부업체의 고객 데이터를 통한 채무 불이행 여부 예측 과제
+p2p 대부업체의 고객 데이터를 통한 채무 불이행 여부 예측 과제 (데이터는 저작권상 공개하지 않습니다.)
   - 이어드림스쿨 AI과정 중에 진행한 프로젝트로, [AI connect](https://www.aiconnect.kr/main/competition/privateDetail/203/competitionInfo)플랫폼에서 진행한 대회입니다.
 ## 1. 대회설명
 - 신청 기간 : ~ 1월 26일 08:59 AM
