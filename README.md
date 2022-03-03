@@ -39,7 +39,7 @@ p2p 대부업체의 고객 데이터를 통한 채무 불이행 여부 예측 �
 
 ## 5. 사용 스택
 - 개발 환경
-  - Google Colab Pro
+  - Jupyter Notebook
 - 기술 및 라이브러리
   - Python, numpy, Pandas, Sklearn, Seaborn, Matplotlib, Xgboost, Lightgbm, RandomForestClassifier
 
